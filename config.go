@@ -7,7 +7,7 @@ import (
 
 	"github.com/BurntSushi/toml"
 	"github.com/jessevdk/go-flags"
-	"github.com/zyedidia/eget/home"
+	"github.com/gfelbing/eget/home"
 )
 
 type ConfigGlobal struct {
