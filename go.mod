@@ -1,4 +1,4 @@
-module github.com/zyedidia/eget
+module github.com/gfelbing/eget
 
 go 1.18
 
